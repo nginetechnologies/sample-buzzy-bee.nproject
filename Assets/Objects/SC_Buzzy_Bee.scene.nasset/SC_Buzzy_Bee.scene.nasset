@@ -1,0 +1,776 @@
+{
+    "guid": "bef57f2c-eaf8-a5b9-aac7-fd1ce3c4c206",
+    "source": "../SC_Buzzy_Bee.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "69b68230-f01a-110a-8d95-53790dd4e928",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Buzzy Bee"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b7d13794-9b25-e45f-9d64-086c001cab98",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block 2x2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "140745f9-6b5b-8662-fd03-3d6e3cc48746"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "20874772-6c72-f01a-2a81-c90e8420c70b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block 2x3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f9d9997d-1029-ef96-1b5b-19f831103158"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a048d5b0-05d3-e6e5-1190-d5412a0dd516",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block 2x4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "74f39e71-8118-470c-f97a-6abae0cd36c5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f0bc8661-f5a1-bc69-9999-28fa4c1dd692",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2308599-5855-a3ae-b41f-528a23531c8d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e372eee9-5dd1-5e37-c589-0db34ea7f16a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Exclamation"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "800df2c1-41ca-3d8e-e70c-0025ef2af448"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b6778a72-d33c-3900-20d7-6dbdb434d38f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Pause"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "46b3aa37-435f-5d13-d784-3440f5779ca7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6c6a9952-b69c-c4b3-6620-f7a9785b0576",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Play"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a12fe930-e04d-c511-cdfa-7e6a6e2d0de7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a98122c5-4ac6-4497-044e-ad1f84c9a16b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Question"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7a0c2caf-309a-5e5b-baa0-2bf8155ae316"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4f165f83-757b-3943-846c-344ae2cd8373",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bridge Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dc343a97-3c6a-4bef-5f78-8fa42879586f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d61cd778-8869-f056-c68c-497a18f51ae6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bridge Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "16bc5e12-295c-a6a2-3078-d107c8e1c578"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a781a1d8-3905-2b21-cfac-186d2e85e4b9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Button"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8832ee5f-5104-71ad-6e22-7ba7e45a5da1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c078f2b4-92d1-2211-0ee3-be24d4b88793",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin Star"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "93ebc202-5236-95e1-4914-907f6adee4b6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6684d1e8-7683-c1fe-5d41-669d9734a092",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e540c209-d88a-9897-43bc-9a6d3650d5c5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "733cb619-b233-b22f-61c0-afb8f2bf814e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Daisy Flower"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "141f12d0-25a1-a6ef-6041-d975ed2a096d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "49d29673-4a51-5904-58b1-917fe19440f3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flower Leaf"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "27e13228-0abf-e046-d738-8bddf3180b2e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "84b0f1fa-ad99-dcff-e584-33efdb4bdefc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Curve"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "064fdf63-1538-c56d-8b4d-53ee222b85cf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c00672de-4e16-5cce-4b0c-24e96d45f9a6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Hill"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6be23a22-d661-8fc5-5c9c-f6071d124ef9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "665253d3-82d6-ea2d-7832-431a4270e349",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Post"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e239abd4-6bcb-b5cf-d014-c83cd401f7f1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "60949ae6-6f70-3302-48f5-e31926d73eed",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5c936e3f-0d0f-c729-f6bf-b3b1d7609c65"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "051983b0-32d2-ef4a-a907-d3ac8c4ab2b7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lollipop"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dbfc4b2b-9fb7-acd7-0482-50c2b6e6a6bc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "847c2e7f-dde0-1851-6d8d-f496a9a95e55",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7f14fc71-722a-4d4a-dd09-c4e3f4d9ba21"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c49e6632-6595-d782-8d4d-a8863cb7713c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "554827ef-8558-fe63-a998-6b7a9e6893dc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3144c021-e233-711c-6f04-75124c5d7aad",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Elbow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1adf244c-4429-fb80-1345-26ae0fea0c88"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dd2aa8bd-434e-1614-dee9-a39e3b4c7876",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe End"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3c0f832e-ef49-3edc-4926-529ba7ae9874"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a9d0f420-1359-f960-4e86-5b238a8aa807",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "600a8744-39e2-32b9-eca7-8d4fb7d0e772"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "311a4ae2-3a1a-4882-cb25-b648d5add9bd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe T"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "eeba5090-dfbe-58cc-6100-585ecb0e07dc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1a9d22cf-87a2-6fa4-2041-7e7c78850186",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sign Arrow Up"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ef0f3b76-c729-d340-dc81-a9380091f82a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8c623678-7815-72be-a20b-dd5508e2567f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sign Arrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1494fc60-e172-7a45-ad50-a753852b67e5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f3f0e8b0-84f7-beaa-e594-cac4c2d9e01c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sign Help"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "30e5629e-b956-4afc-273e-d80999925ff4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b6e98009-41f9-c79c-453f-7230ac7a9966",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Slide Bottom"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b93c98e1-0b3a-b1fa-1ddd-9d425ecf6d47"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d38df7d8-7c61-ed1d-a852-628100664c5b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Slide Mid"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "de173a3e-a02f-7f2d-afda-923af5b0b50d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a10ad6c9-eebe-3fc3-11d0-05e6521629d4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Slide Top"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "11c1b411-36d9-a194-1e01-6e798753f740"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4b4a75e6-c1f5-d197-eeff-a089f88b37b8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Star"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "da795fe4-f559-ab9a-0302-8d9b06acee81"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "27f0be87-e838-189c-ffa1-5d5263c436de",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "83c14d32-a9cc-a547-5685-ff9f5096df7a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "97598f8a-6f05-9e76-76e1-5e9f5ad591c0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2ba44a00-740b-75ac-56d6-d121d9d2496e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dc2aad1b-5252-5a75-ab9f-f27f2d1e5e5e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "86b7cec6-d660-2fb2-8ee5-1fabee93156e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "22e6a02a-a8c9-b576-f1f2-373fe3fb51cd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "36966899-d5e1-9a5a-d255-71b31dcab973"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "39b8dade-15b9-a7bd-92f2-34b0df6c5c85",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b6135b96-6a37-671b-e9b7-56db4c599e29"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0de0a519-e2aa-c73b-260c-57f60f1af95c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6b6e8e32-e6a5-48f5-efcf-e0cc0dc5a306"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "eaabb006-6f8f-038c-846f-299f259b19d1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3f2555d1-92c3-5200-7317-f7684d297486"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "688ba543-5865-68ee-1ac5-61a4c471e5b9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "da284c44-07b2-f477-d184-a7551e3ac559"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a1a44d19-d1ef-592f-2188-ed539b6c10c8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38f8e9c7-d361-0440-f563-cca588fbce0c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cc50a2a5-f961-924e-3cf4-f127f7773472",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3b1d1b83-a327-a4da-8f19-b3c4ee79a07b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e7a39f0f-9e36-b04f-553b-9448d24096ca",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform Narrow Post"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "40e61383-64d4-e5f9-cb23-5e1cfe1c0e6a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aac54916-10b4-afb1-0b08-0ed57eed8b54",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform Narrow Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "09bdb4b8-f3c6-f8f9-5bd0-5537a0aa8c70"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5a3cc726-3f20-1f9e-19bd-eea8990bd2cc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43fc4bc3-4c54-98af-80a5-11638ca58c00"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9a00f644-44be-896b-00e4-676a1d667a5d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform Wide Post"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4f86044f-b920-cca2-6343-be948c303c82"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "da88ac68-c64f-303e-67a7-29390ab7112c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Platform Wide Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9060f09b-01c3-227c-70e7-98962875d405"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5e41fe75-b841-bf85-ce61-489c6ac2808a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2f134df8-d901-44f7-552c-2ce0e9fc218e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "441111d0-f68c-6f00-ac72-5278f8ac1183",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e7fff859-e63f-8283-92dc-3cab7e053be3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3e8e6eef-5362-3fdc-3ef3-7a5eeb562961",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d138d99e-3dab-958b-1a99-f5924236a5db"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6bb5c6e9-d496-52c9-4b44-d4591726ec2e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Daisy 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0e83afad-804e-3014-2710-78d4a3d1bb9c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "44bd4613-958f-2254-fb52-706ad6ec96d3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Daisy 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "18205523-adf9-e732-18b3-651847a1052f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "058dc7db-e5af-4d1a-1b1d-11f592eac578",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Daisy 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c8beff58-a063-a9bb-1bf9-9f9789e0e561"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "bef57f2c-eaf8-a5b9-aac7-fd1ce3c4c206"
+    },
+    "dependencies": [
+        "140745f9-6b5b-8662-fd03-3d6e3cc48746",
+        "f9d9997d-1029-ef96-1b5b-19f831103158",
+        "74f39e71-8118-470c-f97a-6abae0cd36c5",
+        "d2308599-5855-a3ae-b41f-528a23531c8d",
+        "800df2c1-41ca-3d8e-e70c-0025ef2af448",
+        "46b3aa37-435f-5d13-d784-3440f5779ca7",
+        "a12fe930-e04d-c511-cdfa-7e6a6e2d0de7",
+        "7a0c2caf-309a-5e5b-baa0-2bf8155ae316",
+        "dc343a97-3c6a-4bef-5f78-8fa42879586f",
+        "16bc5e12-295c-a6a2-3078-d107c8e1c578",
+        "8832ee5f-5104-71ad-6e22-7ba7e45a5da1",
+        "93ebc202-5236-95e1-4914-907f6adee4b6",
+        "e540c209-d88a-9897-43bc-9a6d3650d5c5",
+        "141f12d0-25a1-a6ef-6041-d975ed2a096d",
+        "27e13228-0abf-e046-d738-8bddf3180b2e",
+        "064fdf63-1538-c56d-8b4d-53ee222b85cf",
+        "6be23a22-d661-8fc5-5c9c-f6071d124ef9",
+        "e239abd4-6bcb-b5cf-d014-c83cd401f7f1",
+        "5c936e3f-0d0f-c729-f6bf-b3b1d7609c65",
+        "dbfc4b2b-9fb7-acd7-0482-50c2b6e6a6bc",
+        "7f14fc71-722a-4d4a-dd09-c4e3f4d9ba21",
+        "554827ef-8558-fe63-a998-6b7a9e6893dc",
+        "1adf244c-4429-fb80-1345-26ae0fea0c88",
+        "3c0f832e-ef49-3edc-4926-529ba7ae9874",
+        "600a8744-39e2-32b9-eca7-8d4fb7d0e772",
+        "eeba5090-dfbe-58cc-6100-585ecb0e07dc",
+        "ef0f3b76-c729-d340-dc81-a9380091f82a",
+        "1494fc60-e172-7a45-ad50-a753852b67e5",
+        "30e5629e-b956-4afc-273e-d80999925ff4",
+        "b93c98e1-0b3a-b1fa-1ddd-9d425ecf6d47",
+        "de173a3e-a02f-7f2d-afda-923af5b0b50d",
+        "11c1b411-36d9-a194-1e01-6e798753f740",
+        "da795fe4-f559-ab9a-0302-8d9b06acee81",
+        "83c14d32-a9cc-a547-5685-ff9f5096df7a",
+        "2ba44a00-740b-75ac-56d6-d121d9d2496e",
+        "86b7cec6-d660-2fb2-8ee5-1fabee93156e",
+        "36966899-d5e1-9a5a-d255-71b31dcab973",
+        "b6135b96-6a37-671b-e9b7-56db4c599e29",
+        "6b6e8e32-e6a5-48f5-efcf-e0cc0dc5a306",
+        "3f2555d1-92c3-5200-7317-f7684d297486",
+        "da284c44-07b2-f477-d184-a7551e3ac559",
+        "38f8e9c7-d361-0440-f563-cca588fbce0c",
+        "3b1d1b83-a327-a4da-8f19-b3c4ee79a07b",
+        "40e61383-64d4-e5f9-cb23-5e1cfe1c0e6a",
+        "09bdb4b8-f3c6-f8f9-5bd0-5537a0aa8c70",
+        "43fc4bc3-4c54-98af-80a5-11638ca58c00",
+        "4f86044f-b920-cca2-6343-be948c303c82",
+        "9060f09b-01c3-227c-70e7-98962875d405",
+        "2f134df8-d901-44f7-552c-2ce0e9fc218e",
+        "e7fff859-e63f-8283-92dc-3cab7e053be3",
+        "d138d99e-3dab-958b-1a99-f5924236a5db",
+        "0e83afad-804e-3014-2710-78d4a3d1bb9c",
+        "18205523-adf9-e732-18b3-651847a1052f",
+        "c8beff58-a063-a9bb-1bf9-9f9789e0e561"
+    ]
+}

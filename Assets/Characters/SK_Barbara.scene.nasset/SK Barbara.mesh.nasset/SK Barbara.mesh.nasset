@@ -1,0 +1,94 @@
+{
+    "guid": "7b357a48-5ce9-2f98-1931-24a3d0117ae2",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "511a9336-6133-efac-2f4a-44ce73ea5317",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "f809e85b-af95-b66b-1e63-69a729a72a09",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Barbara Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "1877adc8-8533-b5c6-3644-4f1813124c7e",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "6370739e-b9dc-47db-babe-eabff0af0e90",
+                                "86bae302-3a39-4693-8886-2a3d82e8444c",
+                                "8442eb9c-e177-4d4d-89c4-c7d742471314"
+                            ],
+                            "jump_animations": [
+                                "ae9295fa-1973-441e-bc46-ce81b25a2e48",
+                                "8a4b29d8-b8ee-4aff-a2df-05f56b358fbc",
+                                "346cddfa-38c3-4bfc-8300-84b7b3b29088"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "90d4dc4f-b08f-afa2-7541-e5fc03efcdf8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Barbara Barbara"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2c06ccb7-0697-d760-559a-38ee0e3874ff",
+                                "material_instance": "caa7e25a-9b32-27c2-2cd7-210b42a58943"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "be04dae9-28e9-a58f-6416-e2c1a5a9e8c3"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "ae882748-297c-242f-f49d-547d94d5ac8a"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "7b357a48-5ce9-2f98-1931-24a3d0117ae2"
+    },
+    "dependencies": [
+        "caa7e25a-9b32-27c2-2cd7-210b42a58943",
+        "2c06ccb7-0697-d760-559a-38ee0e3874ff",
+        "be04dae9-28e9-a58f-6416-e2c1a5a9e8c3",
+        "ae882748-297c-242f-f49d-547d94d5ac8a",
+        "6370739e-b9dc-47db-babe-eabff0af0e90",
+        "86bae302-3a39-4693-8886-2a3d82e8444c",
+        "8442eb9c-e177-4d4d-89c4-c7d742471314",
+        "ae9295fa-1973-441e-bc46-ce81b25a2e48",
+        "8a4b29d8-b8ee-4aff-a2df-05f56b358fbc",
+        "346cddfa-38c3-4bfc-8300-84b7b3b29088"
+    ]
+}
